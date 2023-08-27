@@ -91,5 +91,5 @@ Thread lifecycle
 
 			Synchronized
 
+![image](https://github.com/yadavsandip32/JavaMultithreading/assets/20738229/666e29ef-bc8c-4b8b-b6dc-fda61e20e1c0)
 
-![image](https://github.com/yadavsandip32/JavaMultithreading/assets/20738229/459ffa1d-8ac1-4be5-bae2-011ed12792a7)
