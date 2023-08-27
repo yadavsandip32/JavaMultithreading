@@ -84,10 +84,12 @@ class MyRunnable implements Runnable {
 
 
 ![image](https://github.com/yadavsandip32/JavaMultithreading/assets/20738229/b0a87cdb-0fad-4ed3-98cc-271b0a7333ea)
+
 Thread lifecycle
 
 ![image](https://github.com/yadavsandip32/JavaMultithreading/assets/20738229/24858dbf-08b6-40ad-bc4e-9c26668a28e5)
 
 
-			Synchronized
+![image](https://github.com/yadavsandip32/JavaMultithreading/assets/20738229/94018288-0666-4be2-8b3e-8ec133610bab)
+
 
